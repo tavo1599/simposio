@@ -1,0 +1,54 @@
+---
+// Import necessary components here
+import { Section } from 'astro-boilerplate-components';
+import { Footer } from '@/partials/Footer';
+import { Navbar } from '@/partials/Navbar';
+
+// Assuming you have a data source for images or will add them manually
+const images = [
+  
+  { src: '/assets/images/evi2.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi3.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi4.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi5.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi6.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi7.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi8.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi9.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi11.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi12.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi13.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi20.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi21.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi22.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi23.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi24.jpeg', alt: 'Descrisfdfption 2' },
+  { src: '/assets/images/evi25.jpeg', alt: 'Descrisfdfption 2' },
+  // Add more images as needed
+];
+---
+<html lang='es'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    
+    <link rel='alternate' type='application/rss+xml' href='/rss.xml' />
+    <link rel='icon' type='image/x-icon' href='/favicon.ico' />
+    
+  </head>
+  <body class='bg-slate-900 text-gray-100'>
+  <Navbar />
+<Section>
+  
+  <div class="grid grid-cols-3 gap-4">
+    {images.map((image) => (
+      <div class="shadow rounded-lg overflow-hidden">
+        <img src={image.src} alt={image.alt} loading="lazy" />
+      </div>
+    ))}
+  </div>
+</Section>
+
+<Footer />
+</body>
+</html>

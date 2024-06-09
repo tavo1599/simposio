@@ -6,8 +6,10 @@ import {
   Section,
 } from 'astro-boilerplate-components';
 
+
 const Navbar = () => (
-  <Section>
+  <div className="navbar-fixed">
+    <Section>
     <NavbarTwoColumns>
       <a href="/">
         <Logo
@@ -25,10 +27,12 @@ const Navbar = () => (
       <NavMenu>
         <NavMenuItem href="/">Inicio</NavMenuItem>
         <NavMenuItem href="/posts/">Ponencias</NavMenuItem>
-        <NavMenuItem href="/">Galeria</NavMenuItem>
+        <NavMenuItem href="/gallery/">Galeria</NavMenuItem>
+
       </NavMenu>
     </NavbarTwoColumns>
   </Section>
+  </div>
 );
 
 export { Navbar };

@@ -1,9 +1,9 @@
 import {
-  ColorTags,
+  
   GradientText,
   Project,
   Section,
-  Tags,
+  
 } from 'astro-boilerplate-components';
 
 const ProjectList = () => (
@@ -30,11 +30,11 @@ const ProjectList = () => (
       />
       <Project
         name="MsC. Kent E. Yucra Apaza"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        description="Tengo una Maestría en Informática por la UNICAMP y mi principal interés de investigación son los campos:
+         informática teórica e ingeniería de software. Mi experiencia previa fue como Ingeniero de Software en Bloomberg LP,
+          donde trabajé con tecnologías basadas en web, como Swift, Objective C, C++, Python y Algoritmos."
         link="/"
-        img={{ src: '/assets/images/project-fire.png', alt: 'Project Fire' }}
+        img={{ src: '/assets/images/kent.jfif', alt: 'Project Fire' }}
         category={
           <>
           </>

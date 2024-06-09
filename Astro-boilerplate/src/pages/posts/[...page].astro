@@ -28,9 +28,7 @@ export async function getStaticPaths({ paginate }: GetStaticPaths) {
 
 interface Props {
   page: FrontmatterPage;
-}
-
-const { page } = Astro.props as Props;
+}const { page } = Astro.props as Props;
 const titleSuffix = ` - ${AppConfig.site_name}`;
 const titleBase = `Blog page ${page.currentPage}`;
 const title = titleBase + titleSuffix;
@@ -46,13 +44,14 @@ const description =
     />
   </Section>
 
-  <Section>
-    <BlogGallery postList={page.data} />
+    <Section>
+        <BlogGallery postList={page.data}  />
   </Section>
+
 
   <Section>
     <NewerOlderPagination page={page} />
   </Section>
 
- 
+
 </Base>

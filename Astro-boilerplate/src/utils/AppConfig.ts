@@ -1,8 +1,8 @@
 export const AppConfig = {
   site_name: 'Grupo Manis',
   title: 'Manis',
-  description: '',
+  description: 'echo por los reales',
   author: '',
-  locale_region: 'en-us',
-  locale: 'en',
+  locale_region: 'es-es',
+  locale: 'es',
 };
