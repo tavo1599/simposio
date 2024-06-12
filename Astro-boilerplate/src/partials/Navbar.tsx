@@ -6,7 +6,7 @@ import {
   Section,
 } from 'astro-boilerplate-components';
 
-
+import './styles.css';
 const Navbar = () => (
   <div className="navbar-fixed">
     <Section>

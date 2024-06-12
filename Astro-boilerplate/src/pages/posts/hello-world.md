@@ -18,3 +18,13 @@ Roque Benavides, un destacado ingeniero y empresario, ofrece una visión exhaust
 - *Educación y Formación*: Programas para capacitar a futuros ingenieros en prácticas sostenibles.
 
 
+## Conclusiones
+
+#### Gustavo Salluca
+La ingeniería ha jugado un papel fundamental en el desarrollo nacional de Perú, no solo en términos de infraestructura física, sino también en la innovación tecnológica y la solución de problemas complejos. Los ingenieros peruanos han contribuido significativamente a sectores clave como minería, agricultura y construcción.
+
+#### Alex David Zela
+El fortalecimiento de la educación en ingeniería es vital para asegurar que Perú pueda continuar su trayectoria de crecimiento y desarrollo. Las universidades deben enfocarse en ofrecer programas que no solo enseñen habilidades técnicas, sino que también promuevan la innovación, la gestión de proyectos y la sostenibilidad.
+
+#### Luis Martin Vilca
+La colaboración entre el sector público, la academia y la industria es esencial para maximizar el impacto de la ingeniería en el desarrollo nacional. Iniciativas conjuntas pueden facilitar la transferencia de tecnología, la formación de capital humano y la implementación de proyectos de gran escala que beneficien al país.

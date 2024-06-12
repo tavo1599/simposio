@@ -1,0 +1,9 @@
+/* styles.css */
+.navbar-fixed {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    background-color: #0f172a; /* O cualquier color que prefieras */
+  }
+  

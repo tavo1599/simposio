@@ -18,3 +18,13 @@ Susana Vilca, ex-ministra de Energía y Minas, examina cómo la innovación tecn
 - *Impacto Ambiental Reducido*: Innovaciones que minimizan la degradación ambiental y promueven prácticas sostenibles.
 
 
+## Conclusiones
+
+#### Gustavo Salluca
+La innovación tecnológica en la minería peruana ha permitido mejorar significativamente la eficiencia y seguridad de las operaciones mineras, así como reducir su impacto ambiental. La adopción de tecnologías como la automatización y el monitoreo remoto son ejemplos claros de cómo la innovación puede transformar industrias tradicionales.
+
+#### Alex David Zela
+El futuro de la minería en Perú depende de su capacidad para integrar prácticas sostenibles y tecnologías avanzadas que minimicen el daño ecológico y maximicen los beneficios económicos. Esto incluye el manejo responsable de recursos y la rehabilitación de áreas minadas.
+
+#### Luis Martin Vilca
+La participación de las comunidades locales en los proyectos mineros es crucial para asegurar que los beneficios de la minería se distribuyan equitativamente. Además, las empresas mineras deben comprometerse con la transparencia y el diálogo continuo con estas comunidades para evitar conflictos y promover el desarrollo sostenible.

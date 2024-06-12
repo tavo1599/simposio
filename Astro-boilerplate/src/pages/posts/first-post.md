@@ -17,3 +17,13 @@ Este documento discute el impacto fundamental de la ciencia en la sociedad moder
 - *Innovación Tecnológica*: Los avances científicos son la base de nuevas tecnologías que transforman nuestra vida diaria.
 - *Educación y Pensamiento Crítico*: La ciencia promueve el pensamiento crítico y es esencial en la educación moderna.
 
+## Conclusiones
+
+#### Gustavo Salluca
+La ciencia es un pilar fundamental para el desarrollo y bienestar de la sociedad moderna, proporcionando las bases para el progreso tecnológico y la resolución de problemas globales. Su aplicación ha llevado a mejoras significativas en la salud, la tecnología y el medio ambiente, entre otros.
+
+#### Alex David Zela
+La inversión en investigación y desarrollo es crucial para mantener el ritmo de innovación necesario para enfrentar los retos contemporáneos como el cambio climático, las enfermedades pandémicas y la seguridad alimentaria. Los gobiernos y el sector privado deben colaborar para asegurar que los fondos estén disponibles para la investigación científica.
+
+#### Luis Martin Vilca
+La educación científica debe ser una prioridad desde los niveles más tempranos de la formación académica, promoviendo no solo el conocimiento, sino también el pensamiento crítico y analítico. Esto es esencial para formar ciudadanos informados y comprometidos con el desarrollo sostenible y responsable.

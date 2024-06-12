@@ -17,3 +17,14 @@ El impacto de estas iniciativas es significativo, con numerosos casos de éxito 
 
 ## Desafíos y Oportunidades
 El camino no está exento de desafíos, especialmente en lo que se refiere a la financiación y la sostenibilidad a largo plazo de las startups. Sin embargo, las oportunidades para transformar industrias enteras son enormes, especialmente en áreas como la agrotecnología, la educación y la salud digital.
+
+## Conclusiones
+
+#### Gustavo Salluca
+El desarrollo de ecosistemas de emprendimiento en regiones descentralizadas es fundamental para promover la diversificación económica y combatir la desigualdad en Perú. Estas iniciativas son cruciales para proporcionar oportunidades económicas fuera de las principales áreas urbanas, permitiendo que las comunidades locales innoven de acuerdo con sus propias necesidades y recursos.
+
+#### Alex David Zela
+Los programas de apoyo a startups deben ofrecer un enfoque holístico que no solo incluya financiamiento, sino también acceso a mentorías y formación especializada en tecnología. Esto es esencial para equipar a los emprendedores con las habilidades necesarias para navegar los retos del mercado y escalar sus empresas de manera efectiva y sostenible.
+
+#### Luis Martin Vilca
+Involucrar a mujeres y jóvenes en procesos de emprendimiento no sólo fomenta la inclusión social sino que también introduce nuevas perspectivas en la solución de problemas, lo que puede llevar a innovaciones disruptivas. Facilitar su acceso a recursos y formación es clave para aprovechar este potencial de innovación.

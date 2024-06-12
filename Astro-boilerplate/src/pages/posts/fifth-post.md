@@ -21,4 +21,14 @@ La ciencia de datos se ha convertido en una parte integral de la ingeniería de 
 ## Impacto en la Industria
 La integración de la ciencia de datos en la ingeniería de software ha permitido a las empresas no solo mejorar su eficiencia sino también innovar en la creación de productos y servicios personalizados.
 
+## Conclusiones
+
+#### Gustavo Salluca
+La integración de la ciencia de datos en la ingeniería de software está revolucionando la capacidad de las empresas para procesar grandes volúmenes de información y tomar decisiones informadas en tiempo real. Empresas líderes como Bloomberg y Smarkets utilizan estas técnicas para mejorar la precisión en sus operaciones y ofrecer servicios más adaptados a las necesidades de sus clientes.
+
+#### Alex David Zela
+La demanda de profesionales capacitados en ciencia de datos en el campo de la ingeniería de software está creciendo exponencialmente. Esto subraya la necesidad de que las instituciones educativas actualicen sus currículos para incluir habilidades avanzadas en análisis de datos y aprendizaje automático, preparando así a los futuros ingenieros para los desafíos del mercado laboral.
+
+#### Luis Martin Vilca
+Las empresas que adoptan la ciencia de datos obtienen una ventaja competitiva significativa, ya que pueden optimizar operaciones, reducir costos y prever tendencias de mercado. Sin embargo, esto también plantea desafíos éticos y de privacidad que deben ser gestionados con políticas claras y responsables.
 
